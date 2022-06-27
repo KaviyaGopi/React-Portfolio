@@ -7,7 +7,7 @@ function Projects() {
       <div>
         <Nav />
       </div>
-      <p className="ml-16 text-center font-bold text-4xl">PROJECTS</p>
+      <p className="my-16 ml-16 text-center font-bold text-4xl">PROJECTS</p>
       <div className=" ml-16 mt-28 grid grid-cols-3 gap-8 py-2 ">
         <div className="mb-16 drop-shadow-2xl bg-[#f7f7f7] rounded-3xl mx-20 hover:bg-[#B858] duration-500 hover:-translate-y-3">
           <div>
@@ -49,8 +49,7 @@ function Projects() {
             <img
               className="rounded-t-3xl"
               src="https://cdn.discordapp.com/attachments/945615575068082176/966710504947068948/unknown.png"
-              class="project-img"
-              alt="donation"
+              alt="Clone"
             />
             <div>
               <p className="my-10 font-bold text-2xl pl-10">Website Clone</p>
@@ -79,13 +78,12 @@ function Projects() {
           </div>
         </div>
 
-        <div className="mb-16 drop-shadow-2xl bg-[#f7f7f7] rounded-3xl mx-20 hover:bg-[#F4F1D5] duration-500 hover:-translate-y-3">
+        <div className="mb-16 drop-shadow-2xl bg-[#f7f7f7] rounded-3xl mx-20 hover:bg-[#FABF89] duration-500 hover:-translate-y-3">
           <div>
             <img
               className="rounded-t-3xl"
               src="https://cdn.discordapp.com/attachments/945615575068082176/966714116528042025/unknown.png"
-              class="project-img"
-              alt="donation"
+              alt="Dice"
             />
             <div>
               <p className="my-10 font-bold text-2xl pl-10">
@@ -114,13 +112,12 @@ function Projects() {
           </div>
         </div>
 
-        <div className=" mb-16 drop-shadow-2xl bg-[#f7f7f7] rounded-3xl mx-20 hover:bg-[#FABF89] duration-500 hover:-translate-y-3">
+        <div className=" mb-16 drop-shadow-2xl bg-[#f7f7f7] rounded-3xl mx-20 hover:bg-[#F4F1D5] duration-500 hover:-translate-y-3">
           <div>
             <img
               className="rounded-t-3xl"
               src="https://i.ytimg.com/vi/E-Voff821tE/maxresdefault.jpg"
-              class="project-img"
-              alt="donation"
+              alt="Guess"
             />
             <div>
               <p className="my-10 font-bold text-2xl pl-10">Guess The Number</p>

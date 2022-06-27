@@ -4,6 +4,7 @@ import Nav from "../Components/Nav";
 function Skills() {
   return (
     <div>
+      <Nav />
       <div className="flex justify-center">
         <div className="text-start pt-36 flex flex-col fontFamily: Work Sans">
           <b className=" text-2xl pb-6 text-[#EC5500]">
