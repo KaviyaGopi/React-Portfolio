@@ -20,7 +20,7 @@ const Nav = () => {
     {
       title: "Resume",
       gap: true,
-      link: "https://drive.google.com/file/d/1tD6HvNdRcr5S2htUaveSNTXFSaDTP50K/view?usp=sharing",
+      link: "https://drive.google.com/file/d/1sAKoyWHNWr4P2B7OwYanxq39vk1R8gyL/view?usp=sharing",
       active: false,
       newtab: true,
     },
@@ -67,7 +67,7 @@ const Nav = () => {
 
         <div className="flex gap-x-4 ml-10 pt-14 ">
           <h1
-            className={` text-white bg-[#EC5500] rounded-xl p-2 font-bold origin-left font-medium text-xl duration-200 ${
+            className={` text-white bg-[#B85839] rounded-xl p-2 font-bold origin-left font-medium text-xl duration-200 ${
               !open && "scale-0"
             }`}
           >

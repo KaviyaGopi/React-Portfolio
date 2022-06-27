@@ -66,7 +66,8 @@ function Skills() {
               <b className="text-gray-500">Adobe Illustrator </b> (Comfortable)
             </li>
             <li>
-              <b className="text-gray-500">Adobe Photoshop </b> (Comfortable)
+              <b className="text-gray-500 mb-18">Adobe Photoshop </b>{" "}
+              (Comfortable)
             </li>
           </ul>
         </div>
