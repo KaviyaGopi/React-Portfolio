@@ -118,7 +118,7 @@ const Home = () => {
               <div className="mb-4">
                 <p className="font-medium">Master's in Computer Science</p>
                 <p className="text-gray-400">
-                  Stony Brook University, 2023-Present
+                  Stony Brook University, 2024-Present
                 </p>
               </div>
               <p className="leading-relaxed text-gray-300">
