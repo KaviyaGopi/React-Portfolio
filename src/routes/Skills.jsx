@@ -137,11 +137,13 @@ function Skills() {
     { name: "JavaScript", level: 85, color: "bg-yellow-500" },
     { name: "Java", level: 70, color: "bg-red-500" },
     { name: "C", level: 65, color: "bg-purple-500" },
+    { name: "SQL", level: 65, color: "bg-purple-500" },
   ];
 
   const webTechnologies = [
     { name: "HTML/CSS", level: 90, color: "bg-orange-500" },
     { name: "ReactJS", level: 85, color: "bg-cyan-500" },
+    { name: "NextJS", level: 85, color: "bg-cyan-500" },
     { name: "NodeJS", level: 70, color: "bg-green-500" },
     { name: "Bootstrap", level: 80, color: "bg-indigo-500" },
     { name: "Tailwind CSS", level: 90, color: "bg-teal-500" },

@@ -26,7 +26,7 @@ const Nav = () => {
     },
     {
       title: "Skills",
-      link: "/skills",
+      link: "/Skills",
       icon: <CodeIcon className="w-6" />,
       active: activePath === "/skills",
     },
