@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/KaviyaGopi/React-Portfolio/static/css/main.ccaf48f7.css",
-    "main.js": "/KaviyaGopi/React-Portfolio/static/js/main.9efe05d7.js",
-    "static/media/kaviya.png": "/KaviyaGopi/React-Portfolio/static/media/kaviya.56544c803c9f80481523.png",
-    "index.html": "/KaviyaGopi/React-Portfolio/index.html",
-    "main.ccaf48f7.css.map": "/KaviyaGopi/React-Portfolio/static/css/main.ccaf48f7.css.map",
-    "main.9efe05d7.js.map": "/KaviyaGopi/React-Portfolio/static/js/main.9efe05d7.js.map"
+    "main.css": "/React-Portfolio/static/css/main.ccaf48f7.css",
+    "main.js": "/React-Portfolio/static/js/main.3b7ce709.js",
+    "static/media/kaviya.png": "/React-Portfolio/static/media/kaviya.56544c803c9f80481523.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.ccaf48f7.css.map": "/React-Portfolio/static/css/main.ccaf48f7.css.map",
+    "main.3b7ce709.js.map": "/React-Portfolio/static/js/main.3b7ce709.js.map"
   },
   "entrypoints": [
     "static/css/main.ccaf48f7.css",
-    "static/js/main.9efe05d7.js"
+    "static/js/main.3b7ce709.js"
   ]
 }
